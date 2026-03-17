@@ -11,6 +11,6 @@ package com.mycompany.jenkinstest;
 public class Jenkinstest {
 
     public static void main(String[] args) {
-        System.out.println("Hello Woroooood!");
+        System.out.println("Hello!");
     }
 }
