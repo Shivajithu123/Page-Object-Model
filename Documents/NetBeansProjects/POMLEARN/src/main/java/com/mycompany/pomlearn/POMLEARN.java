@@ -11,6 +11,6 @@ package com.mycompany.pomlearn;
 public class POMLEARN {
 
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        System.out.println("Hello!");
     }
 }
